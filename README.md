@@ -24,3 +24,9 @@ you use this pipeline in your own research.
 Mona Nourbakhsh, Nikola Tom, Anna Schroeder Lassen, Helene Brasch Lind Petersen, Ulrik Kristoffer Stoltze, Karin Wadt, Kjeld Schmiegelow, Matteo Tiberti, Elena Papaleo
 bioRxiv 2024.02.26.582026; doi: https://doi.org/10.1101/2024.02.26.582026
 
+
+**Acknowledgment:**
+This pipeline was developed as a part of my postdoc under Cancer Systems Biology, DTU, led by Elena Papeleo.
+
+**Original repository:**
+https://github.com/ELELAB/RNA_DE_pipeline
