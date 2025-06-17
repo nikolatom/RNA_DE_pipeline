@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - openssl = 1.1.1
+  - rseqc = 4.0.0
